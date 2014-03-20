@@ -28,7 +28,17 @@
 
 <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 
+<script src="/javascripts/hc-sticky.js"></script>
+
 <script type="text/javascript">
+	jQuery(document).ready(function($){
+        $('aside').hcSticky({
+        	top: 50,
+        	bottom: 15
+        });
+    });
+
+/*
 $(document).ready(function () {
     $(window).scroll(function () {
     	// $(window).scrollTop()
@@ -36,7 +46,8 @@ $(document).ready(function () {
 
         $("aside").css('top', pos+'px');
     });
-})
+});
+*/
 </script>
 
   
