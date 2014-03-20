@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Librería Cinco Anillos]]></title>
-  <link href="http://cincoanillos.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Japón | Librería Cinco Anillos]]></title>
+  <link href="http://cincoanillos.github.io/blog/categories/japon/atom.xml" rel="self"/>
   <link href="http://cincoanillos.github.io/"/>
   <updated>2014-03-20T08:20:22+01:00</updated>
   <id>http://cincoanillos.github.io/</id>
@@ -31,17 +31,6 @@
     <id>http://cincoanillos.github.io/blog/2014/03/20/la-familia-abe</id>
     <content type="html"><![CDATA[<center><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-post" data-href="https://www.facebook.com/LibreriaCincoAnillos/photos/a.458007437658018.1073741862.195238920601539/482166965242065/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/LibreriaCincoAnillos/photos/a.458007437658018.1073741862.195238920601539/482166965242065/?type=1">Post</a> by <a href="https://www.facebook.com/LibreriaCincoAnillos">Librería Cinco Anillos</a>.</div></div></center>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Taller Plantas Medicinales]]></title>
-    <link href="http://cincoanillos.github.io/blog/2014/03/20/taller-plantas-medicinales/"/>
-    <updated>2014-03-20T02:46:40+01:00</updated>
-    <id>http://cincoanillos.github.io/blog/2014/03/20/taller-plantas-medicinales</id>
-    <content type="html"><![CDATA[<center><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-post" data-href="https://www.facebook.com/LibreriaCincoAnillos/posts/764344493585014" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/LibreriaCincoAnillos/posts/764344493585014">Post</a> by <a href="https://www.facebook.com/LibreriaCincoAnillos">Librería Cinco Anillos</a>.</div></div></center>
 
 ]]></content>
   </entry>
