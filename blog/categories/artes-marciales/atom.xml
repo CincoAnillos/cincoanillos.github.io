@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Artes Marciales | Librería Cinco Anillos]]></title>
+  <link href="http://cincoanillos.github.io/blog/categories/artes-marciales/atom.xml" rel="self"/>
+  <link href="http://cincoanillos.github.io/"/>
+  <updated>2014-03-20T02:49:36+01:00</updated>
+  <id>http://cincoanillos.github.io/</id>
+  <author>
+    <name><![CDATA[Neko250]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Aikido Paso a Paso]]></title>
+    <link href="http://cincoanillos.github.io/blog/2014/03/20/aikido_paso_a_paso/"/>
+    <updated>2014-03-20T02:22:35+01:00</updated>
+    <id>http://cincoanillos.github.io/blog/2014/03/20/aikido_paso_a_paso</id>
+    <content type="html"><![CDATA[<center><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-post" data-href="https://www.facebook.com/LibreriaCincoAnillos/photos/a.414018952056867.1073741840.195238920601539/482852461840182/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/LibreriaCincoAnillos/photos/a.414018952056867.1073741840.195238920601539/482852461840182/?type=1">Post</a> by <a href="https://www.facebook.com/LibreriaCincoAnillos">Librería Cinco Anillos</a>.</div></div></center>
+
+]]></content>
+  </entry>
+  
+</feed>
