@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Librería Cinco Anillos]]></title>
-  <link href="http://cincoanillos.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | Librería Cinco Anillos]]></title>
+  <link href="http://cincoanillos.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://cincoanillos.github.io/"/>
   <updated>2014-03-20T02:23:34+01:00</updated>
   <id>http://cincoanillos.github.io/</id>

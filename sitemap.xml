@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://cincoanillos.github.io/blog/2014/03/20/test/</loc>
+        <lastmod>2014-03-20T02:23:26+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://cincoanillos.github.io/about/</loc>
         <lastmod>2014-03-20T02:07:29+01:00</lastmod>
     </url>
@@ -30,7 +34,7 @@
     </url>
     <url>
         <loc>http://cincoanillos.github.io/assets/bootstrap/docs/</loc>
-        <lastmod>2014-03-20T00:31:30+01:00</lastmod>
+        <lastmod>2014-03-20T02:23:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://cincoanillos.github.io/assets/bootstrap/docs/components.html</loc>
@@ -38,11 +42,11 @@
     </url>
     <url>
         <loc>http://cincoanillos.github.io/blog/archives/</loc>
-        <lastmod>2014-03-20T02:07:29+01:00</lastmod>
+        <lastmod>2014-03-20T02:23:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://cincoanillos.github.io/blog/</loc>
-        <lastmod>2014-03-20T01:45:14+01:00</lastmod>
+        <lastmod>2014-03-20T02:23:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://cincoanillos.github.io/robots.txt</loc>
