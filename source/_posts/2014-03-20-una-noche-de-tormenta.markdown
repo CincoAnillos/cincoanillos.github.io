@@ -4,7 +4,7 @@ title: "Una Noche De Tormenta"
 author: "Librería Cinco Anillos"
 date: 2014-03-20 08:17:59 +0100
 comments: true
-categories: [Libros, Narrativa, Japón]
+categories: [Libros, Narrativa, Japon]
 ---
 
 <center><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
